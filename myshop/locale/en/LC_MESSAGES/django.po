@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-04 16:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cart/forms.py:7
+msgid "Quantity"
+msgstr ""
+
+#: coupons/forms.py:5
+msgid "Coupon"
+msgstr ""
+
+#: myshop/settings.py:120
+msgid "English"
+msgstr ""
+
+#: myshop/settings.py:121
+msgid "Spanish"
+msgstr ""
+
+#: myshop/urls.py:23
+msgid "admin/"
+msgstr ""
+
+#: myshop/urls.py:24
+msgid "cart/"
+msgstr ""
+
+#: myshop/urls.py:25
+msgid "orders/"
+msgstr ""
+
+#: myshop/urls.py:26
+msgid "payment/"
+msgstr ""
+
+#: myshop/urls.py:27
+msgid "coupons/"
+msgstr ""
+
+#: orders/models.py:9
+msgid "frist name"
+msgstr ""
+
+#: orders/models.py:10
+msgid "last name"
+msgstr ""
+
+#: orders/models.py:11
+msgid "e-mail"
+msgstr ""
+
+#: orders/models.py:12
+msgid "address"
+msgstr ""
+
+#: orders/models.py:13
+msgid "postal code"
+msgstr ""
+
+#: orders/models.py:14
+msgid "city"
+msgstr ""
+
+#: orders/templates/orders/order/create.html:4
+#: orders/templates/orders/order/create.html:8
+msgid "Checkout"
+msgstr ""
+
+#: orders/templates/orders/order/create.html:11
+msgid "Your order"
+msgstr ""
+
+#: orders/templates/orders/order/create.html:21
+#, python-format
+msgid ""
+"\n"
+"                        \"%(code)s\" (%(discount)s%% off)\n"
+"                    "
+msgstr ""
+
+#: orders/templates/orders/order/create.html:28
+msgid "Total"
+msgstr ""
+
+#: orders/templates/orders/order/create.html:33
+msgid "Place order"
+msgstr ""
+
+#: orders/urls.py:8
+msgid "create/"
+msgstr ""
+
+#: payment/urls.py:8
+msgid "process/"
+msgstr ""
+
+#: payment/urls.py:9
+msgid "done/"
+msgstr ""
+
+#: payment/urls.py:10
+msgid "canceled/"
+msgstr ""
+
+#: shop/templates/shop/base.html:7 shop/templates/shop/base.html:12
+msgid "My shop"
+msgstr ""
+
+#: shop/templates/shop/base.html:18
+msgid "Your cart"
+msgstr ""
+
+#: shop/templates/shop/base.html:20
+#, python-format
+msgid ""
+"\n"
+"                %(total_items)s item%(total_items_plural)s,\n"
+"                $%(total_price)s\n"
+"              "
+msgstr ""
+
+#: shop/templates/shop/base.html:26
+msgid "Your cart is empty."
+msgstr ""
+
+#: shop/templates/shop/product/detail.html:19
+msgid "Add to cart"
+msgstr ""
