@@ -9,4 +9,11 @@
 4.weasyprint配置： https://weasyprint.readthedocs.io/en/latest/install.html
 
 5.redis-server：https://www.cnblogs.com/shoren/p/redis.html
+![](readme.rtfd/11.png)
+![](readme.rtfd/22.png)
+![](readme.rtfd/33.png)
+![](readme.rtfd/44.png)
+![](readme.rtfd/55.png)
+![](readme.rtfd/66.png)
+![](readme.rtfd/77.png)
 
